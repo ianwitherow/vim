@@ -66,7 +66,7 @@ hi SpecialComment ctermfg=61 ctermbg=NONE cterm=NONE guifg=#6272a4 guibg=NONE gu
 hi SpecialKey ctermfg=231 ctermbg=235 cterm=NONE guifg=#525563 guibg=NONE gui=NONE
 hi Statement ctermfg=212 ctermbg=NONE cterm=NONE guifg=#ff79c6 guibg=NONE gui=NONE
 hi StorageClass ctermfg=117 ctermbg=NONE cterm=NONE guifg=#8be9fd guibg=NONE gui=italic
-hi String ctermfg=228 ctermbg=NONE cterm=NONE guifg=#e9a88e guibg=NONE gui=NONE
+hi String ctermfg=228 ctermbg=NONE cterm=NONE guifg=#f1fa8c guibg=NONE gui=NONE
 hi SpellBad ctermfg=red ctermbg=NONE cterm=underline
 hi Tag ctermfg=212 ctermbg=NONE cterm=NONE guifg=#ff79c6 guibg=NONE gui=NONE
 hi Title ctermfg=231 ctermbg=NONE cterm=bold guifg=#f8f8f2 guibg=NONE gui=bold
